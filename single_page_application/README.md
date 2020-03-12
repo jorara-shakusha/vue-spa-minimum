@@ -1,5 +1,10 @@
 # spa-sample
 
+
+# 参考ページ
+
+【Vue.js】爆速でSPAを作る https://qiita.com/nagimaruxxx/items/8fc59a5ca05bb91bfe1f #Qiita
+
 > A Vue.js project
 
 ## Build Setup
